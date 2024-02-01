@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-01T15:16:43 CST" name="Surefire suite" finished-at="2024-02-01T15:16:46 CST" duration-ms="3213">
+    <groups>
+    </groups>
+    <test started-at="2024-02-01T15:16:43 CST" name="Surefire test" finished-at="2024-02-01T15:16:46 CST" duration-ms="3213">
+      <class name="testcases.VideoGameAPITest">
+        <test-method signature="test_deleteNewVideoGame()[pri:0, instance:testcases.VideoGameAPITest@424e1977]" started-at="2024-02-01T15:16:43 CST" name="test_deleteNewVideoGame" finished-at="2024-02-01T15:16:45 CST" duration-ms="1867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteNewVideoGame -->
+        <test-method signature="test_getAllVideoGames()[pri:1, instance:testcases.VideoGameAPITest@424e1977]" started-at="2024-02-01T15:16:45 CST" name="test_getAllVideoGames" finished-at="2024-02-01T15:16:45 CST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method signature="test_postNewVideoGame()[pri:2, instance:testcases.VideoGameAPITest@424e1977]" started-at="2024-02-01T15:16:45 CST" name="test_postNewVideoGame" finished-at="2024-02-01T15:16:45 CST" duration-ms="426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_postNewVideoGame -->
+        <test-method signature="test_getNewVideoGame()[pri:3, instance:testcases.VideoGameAPITest@424e1977]" started-at="2024-02-01T15:16:45 CST" name="test_getNewVideoGame" finished-at="2024-02-01T15:16:46 CST" duration-ms="757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getNewVideoGame -->
+        <test-method signature="test_updateNewVideoGame()[pri:4, instance:testcases.VideoGameAPITest@424e1977]" started-at="2024-02-01T15:16:46 CST" name="test_updateNewVideoGame" finished-at="2024-02-01T15:16:46 CST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateNewVideoGame -->
+      </class> <!-- testcases.VideoGameAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

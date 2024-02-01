@@ -1,0 +1,2 @@
+cd D:\Manju\AutomationTesting\SeleniumProjects\SeleniumProjects\resstassuredvideogameapi
+mvn clean install

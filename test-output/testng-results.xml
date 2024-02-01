@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-01T15:12:30 CST" name="Suite" finished-at="2024-02-01T15:12:33 CST" duration-ms="3156">
+    <groups>
+    </groups>
+    <test started-at="2024-02-01T15:12:30 CST" name="Test" finished-at="2024-02-01T15:12:33 CST" duration-ms="3156">
+      <class name="testcases.VideoGameAPITest">
+        <test-method signature="test_deleteNewVideoGame()[pri:0, instance:testcases.VideoGameAPITest@201a4587]" started-at="2024-02-01T15:12:30 CST" name="test_deleteNewVideoGame" finished-at="2024-02-01T15:12:31 CST" duration-ms="1725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteNewVideoGame -->
+        <test-method signature="test_getAllVideoGames()[pri:1, instance:testcases.VideoGameAPITest@201a4587]" started-at="2024-02-01T15:12:31 CST" name="test_getAllVideoGames" finished-at="2024-02-01T15:12:31 CST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method signature="test_postNewVideoGame()[pri:2, instance:testcases.VideoGameAPITest@201a4587]" started-at="2024-02-01T15:12:31 CST" name="test_postNewVideoGame" finished-at="2024-02-01T15:12:32 CST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_postNewVideoGame -->
+        <test-method signature="test_getNewVideoGame()[pri:3, instance:testcases.VideoGameAPITest@201a4587]" started-at="2024-02-01T15:12:32 CST" name="test_getNewVideoGame" finished-at="2024-02-01T15:12:33 CST" duration-ms="856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getNewVideoGame -->
+        <test-method signature="test_updateNewVideoGame()[pri:4, instance:testcases.VideoGameAPITest@201a4587]" started-at="2024-02-01T15:12:33 CST" name="test_updateNewVideoGame" finished-at="2024-02-01T15:12:33 CST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateNewVideoGame -->
+      </class> <!-- testcases.VideoGameAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
